@@ -1,6 +1,6 @@
 import random
 
-def ask_users_hand():
+def Play_game():
     """
     Ask the user to choose one hand to play the game and based on the rules
     the program should display who is the winning!
